@@ -62,7 +62,9 @@ Welcome to the **Modern Tech Solutions HR Management System**, a comprehensive w
    - Make sure PHP is enabled and your web server is running  
 
 5. **Access the application**  
-   - Open your browser and go to `http://localhost/modern-tech-hr-system` or your deployed URL  
+   - Open your browser and go to `http://localhost/modern-tech-hr-system` or your deployed URL
+  
+   ** Make sure to extract the dompdf inside pdf folder (For payslip generation to work) **
 
 ---
 
